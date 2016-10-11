@@ -5,8 +5,3 @@
 # IntelliJ project files
 .idea
 *.iml
-out
-gen
-.gitignore
-pom.xml
-src/
